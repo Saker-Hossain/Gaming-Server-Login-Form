@@ -1,0 +1,46 @@
+body{
+    background-image: url(bg1.jpg);
+    background-repeat: no repeat;
+    background-size: 100%;
+}
+.form-div{
+    background-image: linear-gradient(to right, gray , black);
+    margin-top: 300px;
+    margin-left: 700px;
+    height: 300px;
+    width: 500px;
+    padding-top: 50px;
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+}
+.form-div h1{
+    text-align: center;
+    color: #f2f2f2;
+    margin-top: -30px;
+    
+}
+.form-inner{
+    width: 350px;
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.form-inner .name{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.form-inner .password{
+    margin-left: 50px;
+}
+.form-inner .login{
+    margin-left: 150px;
+    border: 2px solid greenyellow;
+    border-radius: 2px;
+    margin-bottom: 80px;
+    width: 70px;
+}
+.form-inner .remember{
+    margin-left: 120px;
+    margin-top: -200px;
+    
+}
